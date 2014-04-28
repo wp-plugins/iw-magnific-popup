@@ -3,7 +3,7 @@ Contributors: welshhuw
 Tags: responsive, images, lightbox, gallery
 Requires at least: 3.9
 Tested up to: 3.9
-Stable tag: 1.0
+Stable tag: 3.9
 License: GPLv3
 License URI: https://www.gnu.org/copyleft/gpl.html
 
@@ -21,6 +21,9 @@ Note: This only supports images and not the full capabilities of Magnific Popup,
 Upload the plugin into your plugins folder, activate and enjoy.
 
 == Changelog ==
+
+= 0.0.3 =
+* Small Fix.
 
 = 0.0.2 =
 * Added .iwmp-gallery class to the main gallery div wrapper to avoid conflicts.
