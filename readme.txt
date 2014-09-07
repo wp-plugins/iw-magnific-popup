@@ -2,7 +2,7 @@
 Contributors: welshhuw
 Tags: responsive, images, lightbox, gallery
 Requires at least: 3.9
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.2.1
 License: GPLv3
 License URI: https://www.gnu.org/copyleft/gpl.html
