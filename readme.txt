@@ -11,7 +11,8 @@ A plugin to include the Magnific Popup lightbox for single & gallery images in W
 
 == Description ==
 
-This plugin includes the brilliant responsive Magnific Popup lightbox script into your WordPress website which allows single images (inline), and core WordPress Gallery support.
+This simple plugin has no options (yet), install, activate and forget. It currently support single images in posts and pages, and gallery images using the built-in WordPress Gallery shortcode. 
+Images within a Gallery will have next and previous arrows.
 You can add an alt attribute to your image, to enable lightbox 'captions'.
 
 Thanks to Dmitry Semenov for the original script and hard work: http://dimsemenov.com/plugins/magnific-popup/
@@ -24,9 +25,11 @@ Upload the plugin into your plugins folder, activate and enjoy.
 
 == Changelog ==
 
+= 1.2.2 =
+* Small fix where next & prev arrows had theme based colours on hover, now removed.
+
 = 1.2.1 =
 * Added Alt attribute functionality.
-
 
 = 1.1.1 =
 * Small Fix.

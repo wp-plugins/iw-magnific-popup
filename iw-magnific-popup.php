@@ -5,17 +5,8 @@ Plugin URI: https://github.com/huwrowlands/IW-Magnific-Popup
 Description: A plugin to include the Magnific Popup lightbox for single & gallery images in WordPress.
 Author: Huw Rowlands
 Author URI: http://www.inspiredworx.com
-Version: 1.2.1
+Version: 1.2.2
 */
-
-/*******************
-	NOTES
-*******************/
-
-//Add readme.txt
-//Add code to wrap a class around images/galleries for no conflicts with other .gallery classes.
-//Not compatible with iframe, video, googlemaps, dialog boxes, forms, ajax, and modals. Maybe in a future release?
-
 
 /*******************
 	Global Variables
