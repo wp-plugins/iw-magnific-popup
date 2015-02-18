@@ -3,7 +3,7 @@ Contributors: welshhuw
 Tags: responsive, images, lightbox, gallery
 Requires at least: 3.9
 Tested up to: 4.1
-Stable tag: 1.3.0
+Stable tag: 1.3.1
 License: GPLv3
 License URI: https://www.gnu.org/copyleft/gpl.html
 
@@ -38,6 +38,10 @@ Note: This only supports images and not the full capabilities of Magnific Popup.
 4. Go to Settings > IW Magnific Popup and choose your options.
 
 == Changelog ==
+
+= 1.3.1 =
+
+* Modify Headers bug fix
 
 = 1.3.0 =
 
