@@ -30,7 +30,7 @@ Note: This only supports images and not the full capabilities of Magnific Popup.
 3. Go to the Plugins admin page and activate the plugin
 4. Then go to Settings > IW Magnific Popup to choose your options
 
-- Install via the Admin area =
+= Install via the Admin area =
 
 1. When logged into your Dashboard, Go to the Plugins admin area and click Add New
 2. Search for 'iw-magnific-popup'
